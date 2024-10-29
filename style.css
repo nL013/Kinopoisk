@@ -1,3 +1,7 @@
-.card {
+card {
   margin-bottom: 3rem;
+}
+
+#spiner{
+  display:none;
 }
